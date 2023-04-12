@@ -21,3 +21,6 @@ public  class PrimeiroPrograma {
         }
     }
 ```
+
+- **import**: para importar classes.
+por padrão vem com o pacote **java.lang**
