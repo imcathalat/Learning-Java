@@ -37,7 +37,6 @@ get.Text e setText: necessário a conversão
 
 ## Calculator Code in actionPerformed:
 
-´´´
 
       private void btnCalculatorActionPerformed (java.awt.event.ActionEvent evt) 
       {
@@ -48,6 +47,6 @@ get.Text e setText: necessário a conversão
          int idade = (int) (2023-ano);
 
          lblIdade.setText(Integer.toString(idade)); 
-         /* A label chamada lblIdade exibe (set.Text) um valor inteiro que foi convertido para String (Integer.toString) que tinha sido armazenado na variável idade */
-   }
-´´´
+         /* A label chamada lblIdade exibe (set.Text) um valor inteiro que foi convertido para String (Integer.toString) que tinha sido armazenado na variável idade */ 
+         }
+   
