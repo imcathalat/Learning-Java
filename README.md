@@ -105,5 +105,19 @@ get.Text e setText: necessário a conversão
    vai gerar um número aleatório entre 5 e 10
 ```
 
+### Operador Ternário
+- A condição atribui um valor ou outro a uma mesma variável.
+
+```
+   int n1 = 5;
+   int n2 = 10;
+   int r = (n1>n2)?0:1;
+   se (?) n1 maior que n2, a variável r recebe o primeiro valor (0), se não, a variável r recebe o segundo valor (1). os valore stambém podem ser fórmulaa.
+```
+
+### Operadores Lógicos
+![operadores logicos](https://user-images.githubusercontent.com/82779734/235231909-d9ead60d-1b5f-4193-91f6-d5239c800888.png)
+
+
 
    
