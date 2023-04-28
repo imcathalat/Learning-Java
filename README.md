@@ -106,5 +106,4 @@ get.Text e setText: necessário a conversão
 ```
 
 
-
    
